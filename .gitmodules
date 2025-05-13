@@ -1,0 +1,12 @@
+[submodule "cpp_server"]
+	path = cpp_server
+	url = https://github.com/GHW0826/cpp_server.git
+[submodule "SWPF.Common"]
+	path = SWPF.Common
+	url = https://github.com/GHW0826/SWPF.Common.git
+[submodule "grpc"]
+	path = grpc
+	url = https://github.com/GHW0826/grpc.git
+[submodule "SWPF.GameDevTool"]
+	path = SWPF.GameDevTool
+	url = https://github.com/GHW0826/SWPF.GameDevTool.git
