@@ -9,6 +9,7 @@
 ## SWPF.GameDevTool   
 - WPF 툴 클라이언트
 ## grpc   
+- Grpc 서버
 - WPF 툴에서 보낸 요청 가공, 처리후 IOCP GameServer에 전달.   
 ## cpp_server   
 - C++ IOCP GameServer
